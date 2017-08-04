@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP-Workshops/WS10/in-lab/244_w10_tester.cpp" "/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP-Workshops/WS10/cmake-build-debug/CMakeFiles/WS10.dir/in-lab/244_w10_tester.cpp.o"
-  "/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP-Workshops/WS10/in-lab/Car.cpp" "/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP-Workshops/WS10/cmake-build-debug/CMakeFiles/WS10.dir/in-lab/Car.cpp.o"
-  "/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP-Workshops/WS10/in-lab/Displayable.cpp" "/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP-Workshops/WS10/cmake-build-debug/CMakeFiles/WS10.dir/in-lab/Displayable.cpp.o"
-  "/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP-Workshops/WS10/in-lab/Employee.cpp" "/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP-Workshops/WS10/cmake-build-debug/CMakeFiles/WS10.dir/in-lab/Employee.cpp.o"
-  "/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP-Workshops/WS10/in-lab/Student.cpp" "/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP-Workshops/WS10/cmake-build-debug/CMakeFiles/WS10.dir/in-lab/Student.cpp.o"
+  "C:/Users/zhi/OOP244_W10_IN_LAB/in-lab/244_w10_tester.cpp" "C:/Users/zhi/OOP244_W10_IN_LAB/cmake-build-debug/CMakeFiles/WS10.dir/in-lab/244_w10_tester.cpp.obj"
+  "C:/Users/zhi/OOP244_W10_IN_LAB/in-lab/Car.cpp" "C:/Users/zhi/OOP244_W10_IN_LAB/cmake-build-debug/CMakeFiles/WS10.dir/in-lab/Car.cpp.obj"
+  "C:/Users/zhi/OOP244_W10_IN_LAB/in-lab/Displayable.cpp" "C:/Users/zhi/OOP244_W10_IN_LAB/cmake-build-debug/CMakeFiles/WS10.dir/in-lab/Displayable.cpp.obj"
+  "C:/Users/zhi/OOP244_W10_IN_LAB/in-lab/Employee.cpp" "C:/Users/zhi/OOP244_W10_IN_LAB/cmake-build-debug/CMakeFiles/WS10.dir/in-lab/Employee.cpp.obj"
+  "C:/Users/zhi/OOP244_W10_IN_LAB/in-lab/Student.cpp" "C:/Users/zhi/OOP244_W10_IN_LAB/cmake-build-debug/CMakeFiles/WS10.dir/in-lab/Student.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
